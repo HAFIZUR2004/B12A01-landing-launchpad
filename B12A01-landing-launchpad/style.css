@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+}
+.inter{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+}
+header{
+    background-image: url(Hero-bg.png);
+    max-width: 1440px;
+    height: 698px;
+
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+ul li{
+    list-style: none;
+      margin:51px 150px;
+}
+h1{ font-size: 34px;
+    font-weight: black;
+  
+    font-family: inter;
+    color: #4E47FF;
+}
+.btn{
+    width: 132px;
+    height: 48px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffff;
+    background-color: #4E47FF;
+    border: none;
+    
+}
+.btn:hover{
+    background-color:#241ddb;
+}
+.banner{
+   text-align: center;
+   margin: 158px 265px 237px 265px;
+}
+.banne-heading{
+    color: #252432;
+    font-size: 65px;
+    font-weight: bold;
+}
+.banner-btn{
+    margin-top:37px;
+}
+
+.cool-dark-2{
+    display: flex;
+    margin: 10px 159px 0px 141px;
+    justify-content: space-between;
+}
+.cool-dark-2{
+    margin-top: 6px;
+}
+.cool{
+    margin:62.5px 0px;
+}
+.cool-heading{
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+}
+.cool-descriptin{
+    font-size: 24px;
+    color: rgba(37, 36, 50, 0.5);
+
+}
+.launch-btn{
+    margin: 23px 0 0 0 ;
+    color: #ffff;
+    height: 48px;
+    width: 229px;
+    border-radius: 10px;
+
+}
+.img-1{
+    width: 403px;
+    height: 328px;
+    border-radius:48px;
+    margin-left: 10px;
+}
+.users{
+    text-align: center;
+    margin-top:74px;
+    margin: 0 auto;
+    width: 1168px;
+    height: 306px;
+    background-color: aqua;
+}
+.joined{
+       margin: 50px 156px;
+
+}
+.Join-heading{
+    text-align: center;
+    font-size: 38px;
+    font-weight: bold;
+    color: #252432s;
+
+}
+.join{
+    display: flex;
+    padding:40px ;
+    justify-content: space-between;
+   
+}
+.fitty{
+     
+    background-color: red;
+    /* margin-right: 150px; */
+}
