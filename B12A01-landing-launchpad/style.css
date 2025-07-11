@@ -74,12 +74,11 @@ h2.cool-main{
 }
 .cool-dark-2{
     display: flex;
-    margin: 0px 159px 0px 141px;
-    justify-content: space-between;
 }
 .cool-dark{
-    
-    margin: 10px 160px 160px 140px;
+    padding-top: 116px;
+    margin: 0px 160px 160px 140px;
+    justify-content: space-between;
 }
 .cool{
     margin:62.5px 0px;
@@ -176,6 +175,7 @@ h2.cool-main{
     background-color: #fff;
     border-radius: 14px;
     padding: 24px;
+    box-shadow: 4px 4px 4px 4px 50px #E5E7FF;
 }
 .star-img img{
     width: 20px;
