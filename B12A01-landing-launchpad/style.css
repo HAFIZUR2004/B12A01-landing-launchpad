@@ -322,7 +322,7 @@ footer{
     width: 531px;
     height: 221px;
     margin:104px auto;
-    background-color: red;
+    
 }
 .footer-logo{
     font-size: 100px;
@@ -332,7 +332,29 @@ footer{
 .footer-descripton{
     color: #8987A1;
     font-size: 16px;
+    text-align: center;
+}
+
+.ul-section{
+    width: 401px;
+    height: 24px;
+    margin: 5px 65px;
 }
 .ul-section ul{
     display: flex;
+   justify-content: space-between;
+    margin: 0 auto;
+}
+.ul-footer{
+    list-style: none;
+    
+}
+.ul-footer a{
+    text-align: center;
+    text-decoration: none;
+    color: #8987A1;
+    font-size: 16px;
+}
+.ul-footer a:hover{
+    color: #B3B3B3;
 }
